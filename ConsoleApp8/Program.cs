@@ -12,6 +12,7 @@ namespace ConsoleApp8
         }
         static async Task Main(string[] args)
         {
+
             string url = "https://zenquotes.io/api/random";
             try
             {
